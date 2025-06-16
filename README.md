@@ -14,3 +14,7 @@ Learning Git and GitHub fundamentals for Method Cooking development - safe space
 - Commit = a saved snapshot with a message
 - Push = send changes to GitHub
 - GitHub has rendered view (pretty) and source view (raw code)
+
+
+## Update from GitHub
+This change was made directly on GitHub's website.
