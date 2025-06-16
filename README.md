@@ -14,3 +14,12 @@ Learning Git and GitHub fundamentals for Method Cooking development - safe space
 - Commit = a saved snapshot with a message
 - Push = send changes to GitHub
 - GitHub has rendered view (pretty) and source view (raw code)
+
+## EXPERIMENT 1 - Testing Branch Workflow
+This content only exists in the experiment-1 branch!
+If I switch back to main, this text will disappear.
+
+### Experimental Ideas:
+- Try different documentation styles
+- Test new feature concepts
+- Safe space to break things
